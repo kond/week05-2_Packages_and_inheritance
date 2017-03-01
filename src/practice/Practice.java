@@ -7,6 +7,7 @@ public class Practice {
   public static void main(String[] args) {
 
     // Testing Stack
+    System.out.println("==== Testing stack ====");
     Stack stack = new Stack();
     System.out.println(stack.pop());
     stack.push(1);
