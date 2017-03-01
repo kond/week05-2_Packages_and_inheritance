@@ -30,4 +30,8 @@ public class Block extends Rectangle {
   public void setVolume(int volume) {
     this.volume = volume;
   }
+
+  public String toString() {
+    return ("Block[" + this.getLength() + "]");
+  }
 }

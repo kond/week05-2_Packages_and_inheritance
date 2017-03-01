@@ -32,7 +32,11 @@ public class Rectangle {
     this.height = height;
   }
 
-  public Double getArea() {
+  public int getArea() {
+    return (width * height);
+  }
 
+  public String toString() {
+    return ("Rectangle[" + this.width + ", " + this.height + "]");
   }
 }

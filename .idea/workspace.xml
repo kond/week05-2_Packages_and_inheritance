@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55daa8cf-82c4-4621-83e3-07e70d8d97a6" name="Default" comment="" />
+    <list default="true" id="55daa8cf-82c4-4621-83e3-07e70d8d97a6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workshop05/Block.java" afterPath="$PROJECT_DIR$/src/workshop05/Block.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workshop05/Rectangle.java" afterPath="$PROJECT_DIR$/src/workshop05/Rectangle.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +20,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/workshop05/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+            <state relative-caret-position="413">
+              <caret line="39" column="66" lean-forward="true" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
               <folding>
                 <element signature="e#156#157#0" expanded="true" />
                 <element signature="e#176#177#0" expanded="true" />
@@ -28,19 +32,24 @@
                 <element signature="e#324#325#0" expanded="true" />
                 <element signature="e#352#353#0" expanded="true" />
                 <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
                 <element signature="e#440#441#0" expanded="true" />
                 <element signature="e#479#480#0" expanded="true" />
                 <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#568#569#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Block.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Block.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/workshop05/Block.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+            <state relative-caret-position="368">
+              <caret line="33" column="2" lean-forward="false" selection-start-line="33" selection-start-column="2" selection-end-line="35" selection-end-column="3" />
               <folding>
                 <element signature="e#167#168#0" expanded="true" />
                 <element signature="e#184#185#0" expanded="true" />
@@ -50,9 +59,29 @@
                 <element signature="e#295#296#0" expanded="true" />
                 <element signature="e#323#324#0" expanded="true" />
                 <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
                 <element signature="e#415#416#0" expanded="true" />
                 <element signature="e#454#455#0" expanded="true" />
                 <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workshop05/Square.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="17" selection-end-column="3" />
+              <folding>
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,8 +116,9 @@
         <option value="$PROJECT_DIR$/src/workshop04/Student.java" />
         <option value="$PROJECT_DIR$/src/workshop04/Mentor.java" />
         <option value="$PROJECT_DIR$/src/workshop04/Person.java" />
-        <option value="$PROJECT_DIR$/src/workshop05/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/workshop05/Square.java" />
         <option value="$PROJECT_DIR$/src/workshop05/Block.java" />
+        <option value="$PROJECT_DIR$/src/workshop05/Rectangle.java" />
       </list>
     </option>
   </component>
@@ -643,12 +673,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1488362183325</updated>
-      <workItem from="1488362187582" duration="5263000" />
+      <workItem from="1488362187582" duration="5846000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5263000" />
+    <option name="totallyTimeSpent" value="5846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="852" extended-state="6" />
@@ -804,28 +834,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workshop05/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/workshop05/Square.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        <state relative-caret-position="225">
+          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="17" selection-end-column="3" />
           <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/workshop05/Block.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        <state relative-caret-position="368">
+          <caret line="33" column="2" lean-forward="false" selection-start-line="33" selection-start-column="2" selection-end-line="35" selection-end-column="3" />
           <folding>
             <element signature="e#167#168#0" expanded="true" />
             <element signature="e#184#185#0" expanded="true" />
@@ -835,9 +862,35 @@
             <element signature="e#295#296#0" expanded="true" />
             <element signature="e#323#324#0" expanded="true" />
             <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
             <element signature="e#415#416#0" expanded="true" />
             <element signature="e#454#455#0" expanded="true" />
             <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workshop05/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="39" column="66" lean-forward="true" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
           </folding>
         </state>
       </provider>
